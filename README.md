@@ -14,8 +14,8 @@ Implementation of a custom Odoo ERP financial structure for **Tsheseng Unity Ent
 * `/member_management`: Partner relational data and receivable links.
 * 
 ### Implementation Validation
-![Odoo Import Validation](images/import_test.png)
+![Odoo Import Validation](import_test.png)
 *Validated the Chart of Accounts structure against Odoo 17/18 internal requirements, ensuring zero mapping conflicts.*
 
-![Odoo Import Validation](images/success_import.png)
+![Odoo Import Validation](success_import.png)
 *Validated Import records successful- 129 records
