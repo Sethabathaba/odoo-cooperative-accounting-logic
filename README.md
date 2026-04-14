@@ -12,3 +12,10 @@ Implementation of a custom Odoo ERP financial structure for **Tsheseng Unity Ent
 ### Repository Structure
 * `/chart_of_accounts`: Finalized Odoo-ready Excel import templates.
 * `/member_management`: Partner relational data and receivable links.
+* 
+### Implementation Validation
+![Odoo Import Validation](images/import_test.png)
+*Validated the Chart of Accounts structure against Odoo 17/18 internal requirements, ensuring zero mapping conflicts.*
+
+![Odoo Import Validation](images/success_import.png)
+*Validated Import records successful- 129 records
