@@ -1,10 +1,14 @@
-# Odoo-Cooperative-Accounting-Logic
-Full-Stack Developer &amp; Odoo Specialist passionate about bringing business excellence. Expertise in Python, Cooperative Financial Logic, and ERP optimization
+# Odoo Cooperative Accounting Logic
+## Project Overview
+Implementation of a custom Odoo ERP financial structure for **Tsheseng Unity Enterprise**.
 
-#Implemented a custom Odoo accounting structure for a Poultry Cooperative in South Africa. Solved specific business logic challenges:
+**Technical Architecture Lab:** [Morganhub.lovable.app](https://morganhub.lovable.app)
 
-Transitioning pre-incorporation cash (held by Treasurer) into Odoo journals.
+### Key Technical Challenges Solved:
+* **Asset Optimization:** Configured a Fixed Asset pipeline to capitalize renovation costs for the Old School Site.
+* **Capital vs Revenue:** Automated distinction between Member Equity (R100) and Subscriptions (R30).
+* **Data Integrity:** Established a relational onboarding strategy for 30 members using Odoo External IDs.
 
-Automating Member Equity (R100) vs. Operational Income (R30 subscriptions).
-
-Capitalizing renovation costs for a vandalized facility using Odoo's Fixed Assets logic.
+### Repository Structure
+* `/chart_of_accounts`: Finalized Odoo-ready Excel import templates.
+* `/member_management`: Partner relational data and receivable links.
