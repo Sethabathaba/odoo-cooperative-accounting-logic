@@ -1,4 +1,4 @@
-# odoo-cooperative-accounting-logic
+# Odoo-Cooperative-Accounting-Logic
 Full-Stack Developer &amp; Odoo Specialist passionate about bringing business excellence. Expertise in Python, Cooperative Financial Logic, and ERP optimization
 
 #Implemented a custom Odoo accounting structure for a Poultry Cooperative in South Africa. Solved specific business logic challenges:
